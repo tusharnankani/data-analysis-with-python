@@ -2,21 +2,21 @@
 
 ## *Overview*
 
-### 0. Introduction
+[Introduction](https://github.com/tusharnankani/data-analysis-with-python/tree/main#introduction)
 
-### 1. Numerical Computation with NumPy
+[Numerical Computation with NumPy](nankani/data-analysis-with-python/tree/main#numerical-computations-with-numpy)
 
-### 1.1 Five NumPy operation, we bet you don't know! (NumPy Assignment)
+- [Five NumPy operation, we bet you don't know! (NumPy Assignment)](https://github.com/tusharnankani/data-analysis-with-python/tree/main#five-numpy-operation-i-bet-you-dont-know)
 
-### 2. Analyzing Tabular Data with Pandas
+[Analyzing Tabular Data with Pandas](https://github.com/tusharnankani/data-analysis-with-python/tree/main#analyzing-tabular-data-with-pandas)
 
-### 2.1 Covid-19 World-wide Analysis (Pandas Assignment)
+- [Covid-19 World-wide Analysis (Pandas Assignment)](https://github.com/tusharnankani/data-analysis-with-python/tree/main#covid-19-world-wide-analysis)
 
-### 3. Visualization with Matplotlib and Seaborn
+[Visualization with Matplotlib and Seaborn](https://github.com/tusharnankani/data-analysis-with-python/tree/main#visualization-with-matplotlib-and-seaborn)
 
-### 3.1 A Comprehensive Whatsapp Chat Data Analysis (A Real-time Case Study)
+- [A Comprehensive Whatsapp Chat Data Analysis (A Real-time Case Study)](https://github.com/tusharnankani/data-analysis-with-python/tree/main#visualization-with-matplotlib-and-seaborn)
 
-### 4. Resources
+[Resources](https://github.com/tusharnankani/data-analysis-with-python/tree/main#resources)
 
 # *Introduction*
 
@@ -28,7 +28,7 @@
 
 - All my learnings and notebooks can be viewed on **[My Jovian.ml Profile](https://jovian.ml/tusharnankani3)**
 
-    - Jovian.ml is like Github for Jupyter Notebooks. It is very helpful.
+    - *Jovian.ml is like Github for Jupyter Notebooks*. It is very helpful.
     <p>
         <img src="https://imgur.com/cBllA4l.png" width=300>
     </p>
@@ -56,7 +56,7 @@ import jovian
 
 Going through the basics of NumPy.
 
-- [Numerical Computing with Numpy - Notebook on GitHub](#)
+- [Numerical Computing with Numpy - Notebook on GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/1-numerical-computations-with-numpy)
 
 If the notebook doesn't load, on Github, view it on Jovian.
 
@@ -68,7 +68,7 @@ If the notebook doesn't load, on Github, view it on Jovian.
 
 This was a part of the assignment for NumPy Operations.
 
-- [Numpy Operations - Notebook on GitHub](#)
+- [Numpy Operations - Notebook on GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/2-numpy-array-operations)
 
 - [Numpy Operations - Notebook on Jovian](https://jovian.ml/tusharnankani3/numerical-computations-with-numpy)
 
@@ -78,13 +78,15 @@ It is not possible to know all functions of this huge library, the best way is t
 
 - [Original Repository - With Questions, Hints and Answers](https://jovian.ml/tusharnankani3/pandas-practice-assignment)
 
-- [My solutions to the exercises](https://jovian.ml/tusharnankani3/numpy-100-exercises)
+- [My solutions to the exercises - GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/100-numpy-exercise)
+
+- [My solutions to the exercises - Jovian](https://jovian.ml/tusharnankani3/numpy-100-exercises)
 
 # *Analyzing Tabular Data with Pandas*
 
 Going through the basics of Pandas, via a *Case Study* - **Italy Covid Data Analysis**.
 
-- [Data Analysis with Pandas - Notebook on GitHub](#)
+- [Data Analysis with Pandas - Notebook on GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/3-data-analysis-with-pandas)
 
 If the notebook doesn't load, on Github, view it on Jovian.
 
@@ -96,7 +98,7 @@ If the notebook doesn't load, on Github, view it on Jovian.
 
 This was a part of the assignment for Pandas Analysis - Pre-processing, **asking questions** and *answering them after analysing* the Datasets.
 
-- [Covid 19 Data Analysis - Notebook on GitHub]()
+- [Covid 19 Data Analysis - Notebook on GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/4-covid19-data-analysis)
 
 - [Covid 19 Data Analysis - Notebook on Jovian](https://jovian.ml/tusharnankani3/pandas-practice-assignment)
 
@@ -104,7 +106,7 @@ This was a part of the assignment for Pandas Analysis - Pre-processing, **asking
 
 Once done with pre-processing and analysing Datasets, it's time to visualize them! Visualizing data is an essential part of data analysis and machine learning.
 
-- [Data Visualization using Matplotlib and Seaborn - GitHub]()
+- [Data Visualization using Matplotlib and Seaborn - GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/5-python-matplotlib-seaborn-data-visualization)
 
 If the notebook doesn't load, on Github, view it on Jovian.
 
@@ -118,19 +120,26 @@ If the notebook doesn't load, on Github, view it on Jovian.
 
 - If the notebook doesn't load, the complete notebook can be viewed on [Whatsapp Chat Analysis]() website, the notebook as been embedded in a `index.html` file, so that the complete analysis could be viewed easily.
 
-## *Resources*
+## *[Resources](https://github.com/tusharnankani/data-analysis-with-python/tree/main/cheat-sheets)*
 
-- [Data Analysis with Pandas Cheat Sheet]()
-- [Pandas in 8 Pages]()
-- [Data Visualization Complete Cheatsheet]()
+- [Data Analysis with Pandas Cheat Sheet](https://github.com/tusharnankani/data-analysis-with-python/blob/main/cheat-sheets/Data%20Analysis%20with%20Pandas%20Cheat%20Sheet.pdf)
+- [Pandas in 8 Pages](https://github.com/tusharnankani/data-analysis-with-python/blob/main/cheat-sheets/Data%20Analysis%20with%20Pandas%20Cheat%20Sheet.pdf)
+- [Data Visualization Complete Cheatsheet](https://github.com/tusharnankani/data-analysis-with-python/tree/main/cheat-sheets/dataviz-cheatsheet)
 
-### The End 
 
 <p>
 
-<img src="https://media.giphy.com/media/3ogmaPGsQOruw/giphy.gif" align="center" width=200>
+<img src="https://media.giphy.com/media/PSBsUwcZmQ9UI/giphy.gif" width=250>
 
 </p>
+
+#### *Where to go from here?*
+
+- Exploring more datasets! It is *never-ending*, there can be ***Infinite Stories with Data***!
+    - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+    - [Thread of Intreseting Datasets](https://jovian.ml/forum/t/recommended-datasets-for-course-project/11711)
+- Once, done with enough Data Analysis, try making Datasets, scraping Data from websites and creating Interesting Datasets! 
+- Trying hands on Machine Learning and Deep Learning.
 
 # *Author*
 
