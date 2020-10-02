@@ -2,21 +2,21 @@
 
 ## *Overview*
 
-[Introduction](https://github.com/tusharnankani/data-analysis-with-python/tree/main#introduction)
+[Introduction](#introduction)
 
-[Numerical Computation with NumPy](nankani/data-analysis-with-python/tree/main#numerical-computations-with-numpy)
+[Numerical Computation with NumPy](#numerical-computations-with-numpy)
 
-- [Five NumPy operation, we bet you don't know! (NumPy Assignment)](https://github.com/tusharnankani/data-analysis-with-python/tree/main#five-numpy-operation-i-bet-you-dont-know)
+- [Five NumPy operation, we bet you don't know! (NumPy Assignment)](#five-numpy-operation-i-bet-you-dont-know)
 
-[Analyzing Tabular Data with Pandas](https://github.com/tusharnankani/data-analysis-with-python/tree/main#analyzing-tabular-data-with-pandas)
+[Analyzing Tabular Data with Pandas](#analyzing-tabular-data-with-pandas)
 
-- [Covid-19 World-wide Analysis (Pandas Assignment)](https://github.com/tusharnankani/data-analysis-with-python/tree/main#covid-19-world-wide-analysis)
+- [Covid-19 World-wide Analysis (Pandas Assignment)](#covid-19-world-wide-analysis)
 
-[Visualization with Matplotlib and Seaborn](https://github.com/tusharnankani/data-analysis-with-python/tree/main#visualization-with-matplotlib-and-seaborn)
+[Visualization with Matplotlib and Seaborn](#visualization-with-matplotlib-and-seaborn)
 
-- [A Comprehensive Whatsapp Chat Data Analysis (A Real-time Case Study)](https://github.com/tusharnankani/data-analysis-with-python/tree/main#visualization-with-matplotlib-and-seaborn)
+- [A Comprehensive Whatsapp Chat Data Analysis (A Real-time Case Study)](#visualization-with-matplotlib-and-seaborn)
 
-[Resources](https://github.com/tusharnankani/data-analysis-with-python/tree/main#resources)
+[Resources](#resources)
 
 # *Introduction*
 
