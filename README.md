@@ -70,21 +70,21 @@ This was a part of the assignment for NumPy Operations.
 
 - [Numpy Operations - Notebook on GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/2-numpy-array-operations)
 
-- [Numpy Operations - Notebook on Jovian](https://jovian.ml/tusharnankani3/numerical-computations-with-numpy)
+- [Numpy Operations - Notebook on Jovian](https://jovian.ml/tusharnankani3/numpy-array-operations)
 
 ### **100 NumPy Exercises**
 
 It is not possible to know all functions of this huge library, the best way is to get an idea, is to look at the problem and solve it.
 
-- [Original Repository - With Questions, Hints and Answers](https://jovian.ml/tusharnankani3/pandas-practice-assignment)
+- [Original Repository - With Questions, Hints and Answers](https://github.com/rougier/numpy-100)
 
-- [My solutions to the exercises - GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/100-numpy-exercise)
+- [My solutions to the exercises - GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/6-100-numpy-exercises)
 
 - [My solutions to the exercises - Jovian](https://jovian.ml/tusharnankani3/numpy-100-exercises)
 
 # *Analyzing Tabular Data with Pandas*
 
-Going through the basics of Pandas, via a *Case Study* - **Italy Covid Data Analysis**.
+Going through the basics of Pandas, via a small *Case Study* - **Italy Covid Data Analysis**.
 
 - [Data Analysis with Pandas - Notebook on GitHub](https://github.com/tusharnankani/data-analysis-with-python/tree/main/3-data-analysis-with-pandas)
 
@@ -92,7 +92,7 @@ If the notebook doesn't load, on Github, view it on Jovian.
 
 - [Data Analysis with Pandas - Notebook on Jovian](https://jovian.ml/tusharnankani3/python-pandas-data-analysis)
 
-- [Youtube Video](https://www.youtube.com/watch?v=NlZXAytUeeE&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&index=4)
+- [Youtube Video](https://www.youtube.com/watch?v=b2mLDkMSyn4&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&index=4)
 
 ## *Covid-19 World-wide Analysis*
 
@@ -122,7 +122,7 @@ If the notebook doesn't load, on Github, view it on Jovian.
 
 - If the notebook doesn't load, the complete notebook can be viewed on [Whatsapp Chat Analysis](https://tusharnankani.github.io/whatsapp-chat-data-analysis/) website, the notebook as been embedded in a `index.html` file, so that the complete analysis could be viewed easily.
 
-## *[Resources](https://github.com/tusharnankani/data-analysis-with-python/tree/main/cheat-sheets)*
+# *[Resources](https://github.com/tusharnankani/data-analysis-with-python/tree/main/cheat-sheets)*
 
 - [Data Analysis with Pandas Cheat Sheet](https://github.com/tusharnankani/data-analysis-with-python/blob/main/cheat-sheets/Data%20Analysis%20with%20Pandas%20Cheat%20Sheet.pdf)
 - [Pandas in 8 Pages](https://github.com/tusharnankani/data-analysis-with-python/blob/main/cheat-sheets/Data%20Analysis%20with%20Pandas%20Cheat%20Sheet.pdf)
